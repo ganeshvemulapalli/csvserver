@@ -1,4 +1,5 @@
 # Commads executed as part of the section Part I.
+  - Below are the commands executed for part I assignment
     ```sh
     docker run -d --name csvserver infracloudio/csvserver:latest
 
